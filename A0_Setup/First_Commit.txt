@@ -1,0 +1,3 @@
+I have used only C# my entire professional career. I first learned to program in Python and Java. I think C# is the most versatile/robust language, I love how flexible it is while still providing security and more traditional features.
+
+Looking forward to teaching this class!
